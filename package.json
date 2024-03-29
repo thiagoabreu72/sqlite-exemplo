@@ -1,0 +1,16 @@
+{
+  "name": "sqlite",
+  "version": "1.0.0",
+  "description": "Criando uma base básica de dados utilizando sqlite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}

@@ -1,0 +1,27 @@
+//insert - Post 
+localhost:3001/insert
+{
+	"id": 1,
+	"nome":"Thiago",
+	"sobrenome" : "Morales de Abreu",
+	"idade": 32
+}
+
+// update - put
+localhost:3001/update
+{
+	"id": 1,
+	"nome":"Aline",
+	"sobrenome" : "Morales de Abreu",
+	"idade": 32
+}
+
+//select - get
+localhost:3001/select/:id
+
+//delete - delete 
+localhost:3001/delete/:
+
+Documentação 
+https://sqlite.org/
+
